@@ -43,7 +43,7 @@ document.addEventListener("DOMContentLoaded", () => {
       }
       // Chờ 2 giây để xem hiệu ứng trước khi chuyển hướng
       setTimeout(() => {
-        window.location.href = "/Project/HTML/home.html"; // Thay bằng trang bạn muốn
+        window.location.href = "home.html"; // Thay bằng trang bạn muốn
       }, 2100);
     } else {
       alert("Buồn thật đó, bé iu nhập sai rùi :<");
